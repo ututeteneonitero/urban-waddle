@@ -25,7 +25,7 @@ class HourForcastItems extends StatelessWidget {
             Text(
               time,
               style: TextStyle(
-                fontSize: 16,
+                fontSize: 14,
                 fontWeight: FontWeight.bold,
               ),
               maxLines: 1,
